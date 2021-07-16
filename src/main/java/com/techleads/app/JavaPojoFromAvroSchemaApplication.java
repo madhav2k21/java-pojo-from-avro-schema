@@ -10,4 +10,5 @@ public class JavaPojoFromAvroSchemaApplication {
 		SpringApplication.run(JavaPojoFromAvroSchemaApplication.class, args);
 	}
 
+
 }
