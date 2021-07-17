@@ -5,5 +5,6 @@ public interface KafkaConstants {
 	String TOPIC= "MA_MSG";
 	String GROUP_ID="messagesGroup";
 	String APP_ID="messagesID123";
+	String SCHEMAREGISTRYSERVERS = "http://localhost:8081";
 
 }
